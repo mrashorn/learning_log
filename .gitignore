@@ -1,2 +1,4 @@
 ll_env/
 user_env.py
+__pycache__/
+*.sqlite3
